@@ -1,9 +1,3 @@
 # Техника предугадывания ошибок
 
-**Файл примера:** [Error_Guessing_Technique.pdf](../screenshots/7.%20Error_Guessing_Technique.pdf)
-
-## Форма оплаты
-- Оставить поле "Номер карты" пустым
-- Ввести буквы в поле "CVV код"
-- Указать прошедшую дату в "Срок действия"
-- Ввести сумму больше доступного баланса
+[⚙️ Error Guessing: Форма оплаты](../screenshots/7.%20Error_Guessing_Technique.pdf)
