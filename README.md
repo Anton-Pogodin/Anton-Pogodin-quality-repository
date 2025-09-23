@@ -22,4 +22,4 @@
 ## Контакты
 
 - **Email:** vorsma.tundra37@gmail.com
-- **Telegram:** @AP_Sovereign
+- **Telegram:** [@AP_Sovereign](https://t.me/AP_Sovereign)
