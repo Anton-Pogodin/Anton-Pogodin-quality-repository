@@ -6,22 +6,22 @@ Collection of practical QA engineering work samples demonstrating testing method
 ## Portfolio Sections
 
 ### Test Design & Strategy
-- **Mind Maps**: [API Testing Mind Map](screenshots/1.MindCard_API_BackEnd_AP.pdf)
-- **Test Cases**: [Authorization Test Cases](screenshots/3.Test_Cases.pdf)
+- **Mind Maps**: [API Testing Mind Map](screenshots/1. MindCard_API_BackEnd_AP.pdf)
+- **Test Cases**: [Authorization Test Cases](screenshots/3. Test_Cases.pdf)
 
 ### Bug Reporting & Analysis
-- **Bug Reports**: [DevTools Bug Reports](screenshots/2.Bug_Reports.pdf)
+- **Bug Reports**: [DevTools Bug Reports](screenshots/2. Bug_Reports.pdf)
 
 ### Test Techniques & Methodologies
-- **State Transition**: [Order Status Table](screenshots/4.State_Transition_Table.pdf)
-- **Decision Tables**: [Discount Rules](screenshots/5.Decision_Table_User_Data.pdf)
-- **Pairwise Testing**: [Notification Settings](screenshots/6.Pairwise_Testing.pdf)
-- **Error Guessing**: [Payment Form Testing](screenshots/7.Error_Guessing_Technique.pdf)
+- **State Transition**: [Order Status Table](screenshots/4. State_Transition_Table.pdf)
+- **Decision Tables**: [Discount Rules](screenshots/5. Decision_Table_User_Data.pdf)
+- **Pairwise Testing**: [Notification Settings](screenshots/6. Pairwise_Testing.pdf)
+- **Error Guessing**: [Payment Form Testing](screenshots/7. Error_Guessing_Technique.pdf)
 
 ### Technical Skills
-- **SQL Queries**: [Database Testing Examples](screenshots/8.SQL_Queries.pdf)
-- **API Testing**: [REST API CRUD Operations](screenshots/9.API_Testing.pdf)
-- **Performance**: [Cross-Platform Performance](screenshots/10.Cross_Platform_Performance_Testing.pdf)
+- **SQL Queries**: [Database Testing Examples](screenshots/8. SQL_Queries.pdf)
+- **API Testing**: [REST API CRUD Operations](screenshots/9. API_Testing.pdf)
+- **Performance**: [Cross-Platform Performance](screenshots/10. Cross_Platform_Performance_Testing.pdf)
 
 ## Technical Skills
 
