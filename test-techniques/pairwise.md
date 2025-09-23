@@ -1,5 +1,7 @@
 # Pairwise: Настройки уведомлений
 
+![Pairwise тестирование](../screenshots/6.%20Pairwise_Testing.pdf)
+
 | ОС | Браузер | Уведомления |
 |----|---------|-------------|
 | Windows | Chrome | Вкл |

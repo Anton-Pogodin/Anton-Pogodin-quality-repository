@@ -1,6 +1,8 @@
 # Примеры тестирования API (CRUD)
 
-## 1. GET запрос - получение данных пользователя
+![API тестирование](../screenshots/9.%20API_Testing.pdf)
+
+## 1. GET-запрос - получение данных пользователя
 GET /api/users/123
 Authorization: Bearer token123
 

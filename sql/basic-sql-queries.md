@@ -1,9 +1,11 @@
 # Базовые SQL запросы для тестирования
 
+![SQL запросы](../screenshots/8.%20SQL_Queries.pdf)
+
 -- 1. Проверка существования пользователя
 SELECT * FROM users WHERE email = 'test@example.com';
 
--- 2. Проверка количества заказов  
+-- 2. Проверка количества заказов
 SELECT COUNT(*) FROM orders WHERE status = 'completed';
 
 -- 3. Проверка данных за период
