@@ -1,4 +1,4 @@
-# QA Engineering Portfolio | Anton Pogodin
+Отличный вариант! Ноты не учел погрешностей, которых я могу наделать при редактировании кода локальным способом. Поэтому пиши весь код целиком заново со своими корректировками, я его вставлю в файл. Вот существующий код: # QA Engineering Portfolio | Anton Pogodin
 
 ## Overview
 Collection of practical QA engineering work samples demonstrating testing methodologies and technical skills.
