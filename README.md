@@ -1,29 +1,46 @@
-# QA Портфолио | Антон Погодин
+# QA Engineering Portfolio | Anton Pogodin
 
-Добро пожаловать в мое портфолио по тестированию программного обеспечения. Здесь собраны практические работы и примеры моих навыков в QA.
+## Overview
+Collection of practical QA engineering work samples demonstrating testing methodologies and technical skills.
 
-## 📁 Структура портфолио
+## Portfolio Sections
 
-- **🧠 Mind Maps** (`/mind-maps/`) - Ментальные карты для комплексного тестирования
-- **🐛 Bug Reports** (`/bug-reports/`) - Баг-репорты с использованием DevTools
-- **📋 Test Cases** (`/test-cases/`) - Тест-кейсы и чек-листы
-- **⚙️ Test Techniques** (`/test-techniques/`) - Техники тест-дизайна
-- **🗄️ SQL** (`/sql/`) - Работа с базами данных
-- **🔗 API Testing** (`/api/`) - Тестирование REST API
-- **🚀 Performance** (`/performance/`) - Тестирование производительности
+### Test Design & Strategy
+- **Mind Maps**: [API Testing Mind Map](screenshots/1.%20MindCard_API_BackEnd_AP.pdf)
+- **Test Cases**: [Authorization Test Cases](screenshots/3.%20Test_Cases.pdf)
 
-## 🛠 Технические навыки (Skills)
+### Bug Reporting & Analysis
+- **Bug Reports**: [DevTools Bug Reports](screenshots/2.%20Bug_Reports.pdf)
 
-- **Ручное тестирование:** Функциональное, регрессионное, smoke-тестирование
-- **Test Design:** Анализ граничных значений, эквивалентных классов, таблицы решений, pairwise
-- **Багрепорты:** Redmine
-- **SQL:** Начальный уровень (осваиваю)
-- **API Testing:** Начальный уровень (осваиваю)
-- **Dev Tools:** Chrome DevTools
-- **Performance Testing:** Анализ в DevTools
-- **VCS:** GitHub (осваиваю)
+### Test Techniques & Methodologies
+- **State Transition**: [Order Status Table](screenshots/4.%20State_Transition_Table.pdf)
+- **Decision Tables**: [Discount Rules](screenshots/5.%20Decision_Table_User_Data.pdf)
+- **Pairwise Testing**: [Notification Settings](screenshots/6.%20Pairwise_Testing.pdf)
+- **Error Guessing**: [Payment Form Testing](screenshots/7.%20Error_Guessing_Technique.pdf)
 
-## 📫 Контакты
+### Technical Skills
+- **SQL Queries**: [Database Testing Examples](screenshots/8.%20SQL_Queries.pdf)
+- **API Testing**: [REST API CRUD Operations](screenshots/9.%20API_Testing.pdf)
+- **Performance**: [Cross-Platform Performance](screenshots/10.%20Cross_Platform_Performance_Testing.pdf)
 
-- **Email:** vorsma.tundra37@gmail.com
-- **Telegram:** [@AP_Sovereign](https://t.me/AP_Sovereign)
+## Technical Skills
+
+**Testing Methodologies**
+- Manual Testing (Functional, Regression, Smoke)
+- Test Design Techniques
+- Bug Tracking & Reporting
+
+**Technical Competencies**
+- SQL Database Querying
+- REST API Testing
+- Chrome DevTools
+- Git & GitHub
+
+**Tools & Technologies**
+- Redmine, Postman, Chrome DevTools
+
+## Contact Information
+
+**Email**: vorsma.tundra37@gmail.com  
+**Telegram**: [@AP_Sovereign](https://t.me/AP_Sovereign)  
+**GitHub**: [Anton-Pogodin](https://github.com/Anton-Pogodin)
