@@ -1,6 +1,6 @@
 # Техника предугадывания ошибок
 
-![Техника предугадывания ошибок](../screenshots/7.%20Error_Guessing_Technique.pdf)
+**Файл примера:** [Error_Guessing_Technique.pdf](../screenshots/7.%20Error_Guessing_Technique.pdf)
 
 ## Форма оплаты
 - Оставить поле "Номер карты" пустым

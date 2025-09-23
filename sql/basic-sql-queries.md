@@ -1,6 +1,6 @@
 # Базовые SQL запросы для тестирования
 
-![SQL запросы](../screenshots/8.%20SQL_Queries.pdf)
+**Файл примеров:** [SQL_Queries.pdf](../screenshots/8.%20SQL_Queries.pdf)
 
 -- 1. Проверка существования пользователя
 SELECT * FROM users WHERE email = 'test@example.com';

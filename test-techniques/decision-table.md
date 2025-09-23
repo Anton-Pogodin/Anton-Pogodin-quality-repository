@@ -1,6 +1,6 @@
 # Таблица принятия решений: Скидка на заказ
 
-![Таблица решений](../screenshots/5.%20Decision_Table_User_Data.pdf)
+**Файл таблицы:** [Decision_Table_User_Data.pdf](../screenshots/5.%20Decision_Table_User_Data.pdf)
 
 | Условия | Правила |
 |---------|---------|

@@ -1,6 +1,6 @@
 # Pairwise: Настройки уведомлений
 
-![Pairwise тестирование](../screenshots/6.%20Pairwise_Testing.pdf)
+**Файл таблицы:** [Pairwise_Testing.pdf](../screenshots/6.%20Pairwise_Testing.pdf)
 
 | ОС | Браузер | Уведомления |
 |----|---------|-------------|

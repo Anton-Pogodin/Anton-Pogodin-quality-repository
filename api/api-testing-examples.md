@@ -1,6 +1,6 @@
 # Примеры тестирования API (CRUD)
 
-![API тестирование](../screenshots/9.%20API_Testing.pdf)
+**Файл примера:** [API_Testing.pdf](../screenshots/9.%20API_Testing.pdf)
 
 ## 1. GET-запрос - получение данных пользователя
 GET /api/users/123

@@ -1,5 +1,7 @@
 # Ментальная карта: Тестирование REST API интернет-магазина
 
+**Файл ментальной карты:** [MindCard_API_BackEnd_AP.png.pdf](../screenshots/1.%20MindCard_API_BackEnd_AP.png.pdf)
+
 ## API Магазина
 ├── Аутентификация
 │   ├── Логин (POST /login)
