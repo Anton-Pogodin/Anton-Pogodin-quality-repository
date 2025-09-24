@@ -1,4 +1,4 @@
-# QA Engineering Portfolio | Anton Pogodin
+# Portfolio | Anton Pogodin
 
 <div align="center">
 <img src="anton-photo.jpg" alt="Anton Pogodin" width="200" style="border-radius: 10px;">
