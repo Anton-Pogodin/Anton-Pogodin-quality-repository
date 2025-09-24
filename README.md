@@ -1,5 +1,12 @@
 # QA Engineering Portfolio | Anton Pogodin
 
+<div align="center">
+<img src="anton-photo.jpg" alt="Anton Pogodin" width="200" style="border-radius: 10px;">
+
+## QA Engineer | Manual Testing Specialist
+
+</div>
+
 ## Overview
 Collection of practical QA engineering work samples demonstrating testing methodologies and technical skills.
 
